@@ -1,25 +1,25 @@
 {
-	"name":"js-sugar",
-	"description":"Sugar CRM v7.* connector for node.js using REST API v10",
-	"main":"index.js",
-	"author":"Benjamin McColm-Pickford",
-	"license":"BSD",
-	"version":"1.0.0",
-	"keywords":[
+  "name": "js-sugar",
+  "description": "Sugar CRM v7.* connector for node.js using REST API v10",
+  "main": "index.js",
+  "author": "Benjamin McColm-Pickford",
+  "license": "BSD",
+  "version": "1.0.1",
+  "keywords": [
 		"sugar",
 		"crm",
 		"sugarcrm"
 	],
-	"dependencies":{
-		"request":"*",
-	},
-	"scripts":{
-		"test":"echo \"No test specified\""
-	},
-	"repository": {
-    		"type": "git",
-   		 "url": "https://github.com/bmpickford/js-sugar.git"
-	},
-	"readmeFilename": "README.md",
-	"gitHead":
+  "dependencies": {
+    "request": "*"
+  },
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bmpickford/js-sugar.git"
+  },
+  "readmeFilename": "README.md",
+  "gitHead": "a6e15b59406186d122ad70ba0f82bce53a94d0f5"
 }
